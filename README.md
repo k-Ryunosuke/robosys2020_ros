@@ -29,6 +29,6 @@ $ rostopic echo /result
 4. <端末2>でキーボードから r, s, p(Tomを困らせたいときはそれ以外の文字)を入力する。
 5. <端末3>で、出力された結果を確認する。
 ## デモ動画
-- Youtubeのデモ動画は[こちら]https://youtu.be/bias6SwiM2o)
+- Youtubeのデモ動画は[こちら](https://youtu.be/bias6SwiM2o)
 ## 参考サイト
 *ソースコードは[こちら](https://demura.net/education/lecture/16773.html)のサイトを参考にしています。*
